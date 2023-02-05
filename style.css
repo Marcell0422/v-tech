@@ -1,0 +1,28 @@
+#logo {
+    width: 350px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+li {
+    display: inline;
+    padding: 40px;
+    color: #304295;
+}
+ul{
+    overflow:hidden;
+    text-align: center;
+    display: inline-table;
+    width: 95%;
+    margin: auto;
+}
+a:link {
+    color: #304295;
+}
+a:active{
+    color: grey;
+}
+td{
+    padding: 20px;
+}
